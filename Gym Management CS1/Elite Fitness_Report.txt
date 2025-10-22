@@ -1,0 +1,13 @@
+****** Gym Fitness Report ******
+Athlete: Stack Exception
+Max Heart Rate: 202 bpm
+Average Daily Calories Burned: 380.7
+BMI: 18.2 Category: Underweight
+Athlete: Binary Beast
+Max Heart Rate: 192 bpm
+Average Daily Calories Burned: 410.0
+BMI: 24.3 Category: Normal
+Athlete: Heap Memory
+Max Heart Rate: 163 bpm
+Average Daily Calories Burned: 382.1
+BMI: 36.6 Category: Obese

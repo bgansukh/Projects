@@ -1,0 +1,9 @@
+****** Gym Fitness Report ******
+Athlete: Heap Memory
+Max Heart Rate: 163 bpm
+Average Daily Calories Burned: 382.1
+BMI: 36.6 Category: Obese
+Athlete: Infinite Loop
+Max Heart Rate: 167 bpm
+Average Daily Calories Burned: 262.9
+BMI: 26.5 Category: Overweight
